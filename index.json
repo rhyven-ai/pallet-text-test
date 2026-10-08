@@ -1,0 +1,19 @@
+{
+  "format": 1,
+  "publishers": {
+    "rhyven-test": "rhyven-ai"
+  },
+  "apps": [],
+  "pallets": [
+    {
+      "name": "rhyven-test/text-kit",
+      "version": "0.1.0",
+      "description": "Reusable text normalization, adapters and document preparation.",
+      "language": "python",
+      "license": "Apache-2.0",
+      "repository": "rhyven-ai/pallet-text-test",
+      "asset_id": 623281682,
+      "sha256": "afa18d564761ae18b775fa30f371618fd1a9a7020b7cac785233d110ab17e414"
+    }
+  ]
+}
